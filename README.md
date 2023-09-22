@@ -4,7 +4,7 @@
 
 **DOWNLOAD**
 
-Start by downloading Version v1.0.0 on the right under "realease". Contains all necessary files to apply our fine-tuned transformer model.
+Start by downloading v1.0.0 on the right side under "Releases". Please download the zip-file which contains all necessary files to apply our fine-tuned transformer model.
 
 **Model description**
 
