@@ -1,16 +1,4 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
-tags:
-- politics
-- political communication
-- morality
-- emotion
-- multilingual
----
-
-**mDeBERTaV3-moral-emotional-political-ftnd-v1**
+#mDeBERTaV3-moral-emotional-political-ftnd-v1
 
 **Model description**
 
