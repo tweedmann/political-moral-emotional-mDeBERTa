@@ -1,4 +1,8 @@
-#mDeBERTaV3-moral-emotional-political-ftnd-v1
+##mDeBERTaV3-moral-emotional-political-ftnd-v1
+
+**DOWNLOAD**
+
+Start by downloading Version v1.0.0 on the right under "realease". Contains all necessary files to apply our fine-tuned transformer model.
 
 **Model description**
 
