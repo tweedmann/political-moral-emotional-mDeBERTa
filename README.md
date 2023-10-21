@@ -98,7 +98,7 @@ class CrowdCodedTagger(pl.LightningModule):
 
     def __init__(self, n_classes: int, n_training_steps=None, n_warmup_steps=None):
         super().__init__()
-        self.bert = DebertaV2Model.from_pretrained(BERT_MODEL_NAME, return_dict=True)
+        self.bert = DebertaV2Model.from_pretrained(BASE_MODEL_NAME, return_dict=True)
         self.classifier = nn.Linear(self.bert.config.hidden_size, n_classes)
         self.n_training_steps = n_training_steps
         self.n_warmup_steps = n_warmup_steps
